@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Hola uwu 🤭</h1>
 
-<!--
-**eduardo-lopez-medina/eduardo-lopez-medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Me llamo Eduardo 🤭 y me encanta el software libre ✨</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Acerca de mi</h2>
+
+###
+
+<p align="left">No soy desarrollador (¡todavía!🤭<br>No tengo mis propios proyectos pero me gusta ver 👀 el increíble trabajo de la comunidad de Github ✨</p>
+
+###
+
+<h2 align="left">💡 ¿Qué hago aquí?</h2>
+
+###
+
+Le doy una 🌟 a las apps de código abierto que respetan la privacidad 🔒 y que realmente valen la pena 🥰✨ y son geniales
